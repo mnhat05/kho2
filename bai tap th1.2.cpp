@@ -5,7 +5,7 @@
 {
 int Max=0, i;
 int a[5]={ 23,4,8,91,7 };
- for (i=0; i<5; i++); 
+ for (i=0; i<5; i++) 
  {
    if (a[i]>=Max)
    Max=a[i];
